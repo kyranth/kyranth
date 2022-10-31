@@ -1,7 +1,7 @@
 ## Hi there, I'm Nick 👋
 
 ### Bio
-* 📍**I'm a New Yorker**
+* 🚶 **I'm a New Yorker**
 * 🏫 **Attending [University of San Francisco](https://www.instagram.com/usfca/)**
 * 🤖 **I am passionate about robots and the inevitable rise of robots**
 * 👨🏻‍💻 **I code in `.java` `.cpp` `.c` `.py`**
