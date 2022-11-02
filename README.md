@@ -5,7 +5,7 @@
 * 🎓 **Attending [University of San Francisco](https://www.instagram.com/usfca/)**
 * 🤖 **I am passionate about robots and the inevitable rise of robots**
 * 👨🏻‍💻 **I code in `.java` `.cpp` `.c` `.py`**
-* 📸 **I only shoot in `RAW`
+* 📸 **I only shoot in `RAW`**
 
 ## Reach me via 👇
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/skhan26/)
