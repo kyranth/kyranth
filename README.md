@@ -8,7 +8,7 @@
 * 👨🏻‍💻 **I code in `.java` `.cpp` `.c` `.py`**
 * 📸 **I only shoot in `RAW`**
 
-## Reach me via 👇
+## Reach me via 👇🏻
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://external.ink?to=https://www.linkedin.com/in/skhan26/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informatinal?style=flat&logo=instagram)](https://external.ink?to=https://www.instagram.com/esolonick)
