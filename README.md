@@ -2,7 +2,7 @@
 
 ### Bio
 * 🚶 **I'm a New Yorker**
-* 🎓 **Attending [University of San Francisco](https://www.usfca.edu/)**
+* 🎓 **Attending [University of San Francisco](https://external.ink?to=www.usfca.edu/)**
 * 🤖 **I am passionate about robots and the inevitable rise of robots**
 * 👨🏻‍💻 **I code in `.java` `.cpp` `.c` `.py`**
 * 📸 **I only shoot in `RAW`**
