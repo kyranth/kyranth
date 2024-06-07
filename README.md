@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development. Here's a bit about me and my work:
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🔭 I’m currently working on a java Search Engine
 - 🌱 I’m currently learning [Advanced C Programming: Optimize Performance and Efficiency]()
@@ -11,6 +11,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 💬 Ask me about Arduino, ESP Micro controllers, FTC Robotics
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like [Monokai Pro](https://monokai.pro/)
+
+## 📊 GitHub Stats
+
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kyranth&theme=tokyonight&count_private=true&hide_border=true&line_height=20&hide_rank=true)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyranth&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
 
 ## 🛠️ My Tech Stack
 
@@ -23,21 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyranth&show_icons=true&theme=radical)
-
-## 📈 Language Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyranth&layout=compact&theme=radical)
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kyranth&theme=radical)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skhan26/)
-
-<!-- Optional: Add dynamic content like visitor count or profile view count -->
-![Profile views](https://gpvc.arturio.dev/kyranth)
