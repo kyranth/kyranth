@@ -1,18 +1,43 @@
-# Hi there, I'm Nick 👋
+# Hi there, I'm Nick! 👋
 
-## Bio
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development. Here's a bit about me and my work:
 
-* 🚶 **I'm a New Yorker**
-* 🎓 **Attending [University of San Francisco](https://external.ink?to=https://www.usfca.edu/)**
-* 🤖 **I am passionate about robots and the inevitable rise of robots**
-* 👨🏻‍💻 **I code in `.java` `.cpp` `.c` `.py`**
-* 📸 **I only shoot in `RAW`**
+## 🚀 About Me
 
-## Reach me via 👇🏻
+- 🔭 I’m currently working on a java Search Engine
+- 🌱 I’m currently learning [Advanced C Programming: Optimize Performance and Efficiency]()
+- 👯 I’m looking to collaborate on [Bitwarden Clients](https://github.com/bitwarden/clients)
+- 🤔 I’m looking for help with finding an internship
+- 💬 Ask me about Arduino, ESP Micro controllers, FTC Robotics
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I like [Monokai Pro](https://monokai.pro/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://external.ink?to=https://www.linkedin.com/in/skhan26/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informatinal?style=flat&logo=instagram)](https://external.ink?to=https://www.instagram.com/esolonick)
-[![WeChat Badge](https://img.shields.io/badge/WeChat-Profile-informational?style=flat&logo=wechat)](https://external.ink?to=weixin://dl/chat?{wxid_xaeq9i7I615312})
-[![Email Badge](https://img.shields.io/badge/Email-blue?style=flat&logo=email)](https://external.ink?to=mailto:slimy-pier-0s@icloud.com)
+## 🛠️ My Tech Stack
 
-## Projects made with 🤌
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyranth&show_icons=true&theme=radical)
+
+## 📈 Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyranth&layout=compact&theme=radical)
+
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kyranth&theme=radical)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skhan26/)
+
+<!-- Optional: Add dynamic content like visitor count or profile view count -->
+![Profile views](https://gpvc.arturio.dev/kyranth)
