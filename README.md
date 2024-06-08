@@ -14,19 +14,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📊 GitHub Stats
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kyranth&theme=tokyonight&count_private=true&hide_border=true&line_height=20&hide_rank=true)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyranth&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kyranth&theme=tokyonight&count_private=true&hide_border=true&line_height=20&hide_rank=true"> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyranth&layout=compact&theme=tokyonight&count_private=true&hide_border=true">
+</p>
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tech Stack - Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://github.com/thinkright20">
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mongodb,css,html,js,nodejs,github,vscode,eclipse,intellij">
+  </a>
+</p>
 
 ## 📫 Connect with Me
 
