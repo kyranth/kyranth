@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on a java Search Engine
+- 🔭 I’m currently working on a Search Engine
 - 🌱 I’m currently learning [Advanced C Programming: Optimize Performance and Efficiency]()
 - 👯 I’m looking to collaborate on [Bitwarden Clients](https://github.com/bitwarden/clients)
 - 🤔 I’m looking for help with finding an internship
