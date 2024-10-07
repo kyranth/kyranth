@@ -4,12 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on a Search Engine
+- 🔭 I’m currently working on a RISC-V Emulator
 - 🌱 I’m currently learning [Advanced C Programming: Optimize Performance and Efficiency]()
 - 👯 I’m looking to collaborate on [Bitwarden Clients](https://github.com/bitwarden/clients)
-- 🤔 I’m looking for help with finding an internship
 - 💬 Ask me about Arduino, ESP Microcontrollers, FTC Robotics
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like [Monokai Pro](https://monokai.pro/)
 - 📞 Connect with me on [Linkedin](https://www.linkedin.com/in/skhan26/)
 
