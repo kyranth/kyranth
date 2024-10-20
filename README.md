@@ -17,11 +17,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kyranth&theme=tokyonight&count_private=true&hide_border=true&line_height=20&hide_rank=true"> 
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyranth&layout=compact&theme=tokyonight&count_private=true&hide_border=true">
 </p>
-
-## 🛠️ My Tech Stack - Languages and Tools
-
-<p align="center">
-  <a href="https://github.com/thinkright20">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mongodb,css,html,js,nodejs,github,vscode,eclipse,intellij">
-  </a>
-</p>
