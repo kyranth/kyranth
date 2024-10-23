@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development. Here's a bit about me and my work:
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 I’m currently working on a RISC-V Emulator
-- 🌱 I’m currently learning [Advanced C Programming: Optimize Performance and Efficiency]()
-- 👯 I’m looking to collaborate on [Bitwarden Clients](https://github.com/bitwarden/clients)
+- 🧑‍💻 I’m currently working on a RISC-V Emulator
+- 📝 I’m learning about interpreters and programming language paradigms
+- 🫱🏿‍🫲🏼 I’m looking to collaborate on [Bitwarden Clients](https://github.com/bitwarden/clients)
 - 💬 Ask me about Arduino, ESP Microcontrollers, FTC Robotics
 - ⚡ Fun fact: I like [Monokai Pro](https://monokai.pro/)
 - 📞 Connect with me on [Linkedin](https://www.linkedin.com/in/skhan26/)
