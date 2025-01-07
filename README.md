@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## About Me
 
-- 🧑‍💻 I’m currently working on a RISC-V Emulator
-- 📝 I’m learning about interpreters and programming language paradigms
+- 🧑‍💻 I’m currently working on a Networking App
+- 📝 I’m learning about advanced Rust programming
 - 🫱🏿‍🫲🏼 I’m looking to collaborate on [Bitwarden Clients](https://github.com/bitwarden/clients)
 - 💬 Ask me about Arduino, ESP Microcontrollers, FTC Robotics
 - ⚡ Fun fact: I like [Monokai Pro](https://monokai.pro/)
